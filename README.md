@@ -1,2 +1,2 @@
 # Chronos-Tech
-Chronos Tech, tecnologia para o Agro.
+Chronos Tech, tecnologia que impulsiona o Agro.
